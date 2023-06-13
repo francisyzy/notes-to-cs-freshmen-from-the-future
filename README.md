@@ -60,11 +60,11 @@ You’ll probably want to start with some general advice written for undergradua
 
 * [Paul Graham: What You Wish You’d Known](http://www.paulgraham.com/hs.html)
 
-* [Alex Payne: Letter To A Young Programmer Considering A Startup](https://www.al3x.net/blog/2013/05/23/letter-to-a-young-programmer-considering-a-startup) [[Archived]](https://web.archive.org/web/20211212193020/https://www.al3x.net/blog/2013/05/23/letter-to-a-young-programmer-considering-a-startup/)
+* [Alex Payne: Letter To A Young Programmer Considering A Startup](https://www.al3x.net/blog/2013/05/23/letter-to-a-young-programmer-considering-a-startup) [[Archived](https://web.archive.org/web/20211212193020/https://www.al3x.net/blog/2013/05/23/letter-to-a-young-programmer-considering-a-startup/)]
 
 * [4 Steps to Google (Without a Degree)](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 
-* [What advice does Thomas Cormen have for a computer science undergrad in his freshman year?](https://qr.ae/pGVIdr) [[Archived]](https://archive.is/35d8S)
+* [What advice does Thomas Cormen have for a computer science undergrad in his freshman year?](https://qr.ae/pGVIdr) [[Archived](https://archive.is/35d8S)]
 
 The sites from which the above articles are available are generally good places to read from. Also, follow some Computer Science blogs and sites:
 
